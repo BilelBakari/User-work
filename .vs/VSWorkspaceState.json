@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\.mvn",
+    "\\bin\\src",
+    "\\bin\\src\\main",
+    "\\bin\\src\\main\\java",
+    "\\bin\\src\\main\\java\\com",
+    "\\bin\\src\\main\\java\\com\\picosoft",
+    "\\bin\\src\\main\\java\\com\\picosoft\\biz",
+    "\\bin\\src\\main\\java\\com\\picosoft\\biz\\config"
+  ],
+  "SelectedNode": "\\bin\\src\\main\\java\\com\\picosoft\\biz\\config\\CorsConfiguration.class",
+  "PreviewInSolutionExplorer": false
+}
